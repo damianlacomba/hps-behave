@@ -64,9 +64,6 @@ def impl(context):
     context.actionwords.coffee_should_be_served()
 
 
-@given(r'I handle coffee grounds')
-def impl(context):
-    context.actionwords.i_handle_coffee_grounds()
 
 
 @then(r'displayed message is')
@@ -94,9 +91,6 @@ def impl(context, datatable = "||"):
     context.actionwords.settings_should_be(context.table)
 
 
-@given(r'I handle water tank')
-def impl(context):
-    context.actionwords.i_handle_water_tank()
 
 
 @when(r'I take a coffee')
@@ -104,6 +98,3 @@ def impl(context):
     context.actionwords.i_take_a_coffee()
 
 
-@given(r'I handle beans')
-def impl(context):
-    context.actionwords.i_handle_beans()
