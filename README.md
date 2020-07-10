@@ -1,6 +1,6 @@
 # hps-behave
 [![CircleCI](https://circleci.com/gh/hiptest/hps-behave.svg?style=svg)](https://circleci.com/gh/hiptest/hps-behave)
-[![Build Status](https://travis-ci.org/hiptest/hps-behave.svg?branch=master)](https://travis-ci.org/hiptest/hps-behave)
+[![Build Status](https://travis-ci.org/damianlacomba/hps-behave.svg?branch=master)](https://travis-ci.org/damianlacomba/hps-behave))
 
 Hiptest publisher samples with Behave
 
